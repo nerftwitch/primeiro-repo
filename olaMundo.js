@@ -1,2 +1,3 @@
-console.log("Olá, mundo!!");
-console.log("olocooo!");
+for (let i = 10; i >= 0; i--) {
+  console.log(i);
+}
